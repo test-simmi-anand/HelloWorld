@@ -1,0 +1,18 @@
+oF INVOICE
+#11577
+Sit Amet Carp.
+Date: Jun 30, 2019
+Sit Amet Corp. Balance Due: $17,310.00
+1938 Amet Avenue
+Lake Cowichan
+UsA
+Bill To:
+ACME Inc.
+5171 Dui, Street
+Denver, Colorado
+USA
+Item Quantity SFE: Amount
+Services 1 $14 425.00 $14,425.00
+Subtotal: $14,42500
+Tax (20%): $2.88500
+Total: $17,310.00
